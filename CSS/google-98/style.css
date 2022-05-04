@@ -1,0 +1,52 @@
+.container {
+    width: 1300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.search {
+    background-color: #eeeeee;
+    height: 65px;
+    margin-bottom: 2px;
+}
+
+.special {
+    background-color: #7EE5DA;
+    width: 485px; 
+    padding: 10px 0;
+    float: left;
+}
+
+.info {
+    background-color: #70CCC2;
+    width: 260px;
+    padding: 10px 0 4px;
+    margin-left: 1px;
+    font-size: 13px;
+    float: left;   
+}
+
+.mail {
+    background-color: #62B3AA;
+    width: 552px;
+    padding-bottom: 1px;
+    margin-left: 1px;
+    font-size: 13px;
+    float: left;
+}
+
+.dp-list {
+    display:block;
+}
+
+
+footer{
+    margin-top: 95px;
+    text-align: center;
+    font-size: 13px;
+    clear:left;
+}
+
+
